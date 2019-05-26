@@ -4,5 +4,5 @@ class Teacher < User
 
   def teach(rng)
     KNOWLEDGE(rng)
-  
+  end
 end
